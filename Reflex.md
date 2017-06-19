@@ -285,7 +285,7 @@ System.out.println(d.toString());
 该方法中的obj是执行该方法的对象，后面的args是执行该方法时传入该方法的参数；
 
 ### 通过Class对象来调用方法：
-####定义Person类：
+#### 定义Person类：
 ```java
 public class Person {
      
